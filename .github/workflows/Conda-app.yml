@@ -2,7 +2,7 @@ name: Conda package
 
 on:
   push:
-    branches: [ main ]
+    branches: [ ubuntu-test ]
   pull_request:
     branches: [ main ]
 
